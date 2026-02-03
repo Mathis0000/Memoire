@@ -1,7 +1,7 @@
 # Mémoire
 
 # Sources
-glaucome : https://www.kaggle.com/code/mathisv/v1glaucoma
+glaucome : https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets
 diabete : https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 amd: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 https://zenodo.org/records/7505822
