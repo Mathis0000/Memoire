@@ -12,7 +12,7 @@ data/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-
+.claude/
 # =========================
 # OS / IDE
 # =========================
