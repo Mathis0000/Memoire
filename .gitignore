@@ -6,6 +6,7 @@ data/
 *.h5
 .venv/
 *.deb
+*.pth
 # =========================
 # Jupyter / Python
 # =========================
@@ -19,3 +20,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+.gitignore
