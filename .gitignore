@@ -1,7 +1,9 @@
 # =========================
 # Données volumineuses
 # =========================
-data/
+data/diabete
+data/glaucome
+data/mda
 *.pkl
 *.h5
 .venv/
